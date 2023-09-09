@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bamssaye
+- 👀 I’m interested in C, C#, SQL, JAVASCRIPT, FLUTTER
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me Bamssayef@gmail.com
